@@ -16,7 +16,7 @@ We learn 10 sprints during 4 months program.
 - Dashboard
 
 
-# Homework
+# Assignments
 Spreadsheet https://drive.google.com/drive/folders/1seKVS9yDyliPwy7ZQFXX4viE-zpakwHD?usp=sharing
 - Dynamic Query
 - เปลี่ยนวันที่ พ.ศ. <-> ค.ศ.
